@@ -4,7 +4,7 @@
 
 📖 Overview
 
-This project demonstrates a comprehensive approach to image classification using Convolutional Neural Networks (CNN). The goal is to classify images of cats 🐱 and dogs 🐶 into their respective categories. The project leverages TensorFlow and Keras to build, train, and evaluate the CNN model. Additionally, it includes methods for visualizing the model's predictions and understanding its focus through Class Activation Maps (CAM) 🔍.
+This project demonstrates a comprehensive approach to image classification using Convolutional Neural Networks (CNN). The goal is to classify images of cats 🐱 and dogs 🐶 into their respective categories. The project leverages TensorFlow and Keras to build, train, and evaluate the CNN model. Additionally, it includes methods for visualizing the model's predictions and understanding its focus performance metrices 🔍.
 
 🛠 Project Description
 
